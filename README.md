@@ -1,257 +1,198 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=scoels&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1E0A3C,100:0A0A0F&height=220&section=header&text=scoels&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=A855F7&desc=Always%20Learning%20%E2%80%A2%20Always%20Building&descAlignY=62&descAlign=50&descSize=18" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+FULL+STACK+DEVELOPER;%E2%9A%A1+BUILDING+THE+FUTURE+%F0%9F%94%AE;%F0%9F%92%A1+AI+%7C+CLOUD+%7C+WEB+TECHNOLOGIES;%F0%9F%8C%8C+OPEN+SOURCE+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%2F+Cloud+%2F+Web+Technologies;Open+Source+Contributor;Research+Engineer+(ORCID+Verified))](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
+[![Profile Views](https://komarev.com/ghpvc/?username=scoels&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/scoels)
+[![GitHub followers](https://img.shields.io/github/followers/scoels?logo=github&style=for-the-badge&color=A855F7&labelColor=0A0A0F)](https://github.com/scoels)
+[![GitHub stars](https://img.shields.io/github/stars/scoels?logo=github&style=for-the-badge&color=F59E0B&labelColor=0A0A0F)](https://github.com/scoels)
 
 </div>
 
 <br>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=scoels&color=00e5ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/scoels)
-[![GitHub followers](https://img.shields.io/github/followers/scoels?logo=github&style=flat-square&color=00e5ff&labelColor=0d1117)](https://github.com/scoels)
-[![GitHub stars](https://img.shields.io/github/stars/scoels?logo=github&style=flat-square&color=ff00ff&labelColor=0d1117)](https://github.com/scoels)
-
-</div>
 
 ---
 
 <div align="center">
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> NEURAL INTERFACE ACTIVATED
-
+  <h2><img src="https://api.iconify.design/lucide:user-round.svg?color=%23A855F7" width="26"> ABOUT</h2>
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 SYSTEM ARCHITECTURE
-
-```yaml
-Identity: scoels
-Class: Always Learning Developer
-Location: Global Network
-Status: Online & Building
-Focus Areas:
-  - AI/ML Integration
-  - Cloud Native Apps
-  - Modern Web Stack
-Research: Active (ORCID Linked)
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ ACTIVE PROTOCOLS
-
-- 🔭 **Current Mission**: Viewle, Whelog, Majog, Vedik-Web
-- 🎯 **Objective**: Building next-gen applications
-- 🧠 **Learning**: Advanced AI systems & cloud architecture
-- 🤝 **Seeking**: Collaborators on innovative projects
-- 📡 **Connect**: LinkedIn ORCID Research Network
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> PERFORMANCE METRICS
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scoels&theme=neon-dark&hide_border=true&stroke=00F0FF&ring=FF00FF&fire=FF6B35&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF00FF&sideLabels=FF00FF&dates=7B68EE" width="800">
-
-<br><br>
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=scoels&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=c9d1d9&border_radius=15" width="400">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoels&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&border_radius=15" width="400">
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><img src="https://api.iconify.design/lucide:square-terminal.svg?color=%23F59E0B" width="18"> Identity</h4>
+      <pre><code>const scoels = {
+  role   : "Full Stack Developer",
+  status : "Online & Building",
+  focus  : ["AI/ML", "Cloud", "Web"],
+  based  : "Global Network",
+  orcid  : "0009-0001-4892-9308"
+};</code></pre>
+    </td>
+    <td width="50%" valign="top">
+      <h4><img src="https://api.iconify.design/lucide:zap.svg?color=%23F59E0B" width="18"> Now</h4>
+      <br>
+      <p><img src="https://api.iconify.design/lucide:git-branch.svg?color=%23A855F7" width="14"> &nbsp;<b>Projects:</b> Viewle · Whelog · Majog · Vedik-Web</p>
+      <p><img src="https://api.iconify.design/lucide:cpu.svg?color=%23A855F7" width="14"> &nbsp;<b>Learning:</b> Advanced AI &amp; Cloud Architecture</p>
+      <p><img src="https://api.iconify.design/lucide:handshake.svg?color=%23A855F7" width="14"> &nbsp;<b>Open to:</b> Collabs on innovative OSS projects</p>
+      <p><img src="https://api.iconify.design/lucide:flask-conical.svg?color=%23A855F7" width="14"> &nbsp;<b>Research:</b> Active on ORCID</p>
+    </td>
+  </tr>
 </table>
 
-</div>
+<br>
 
 ---
 
 <div align="center">
+  <h2><img src="https://api.iconify.design/lucide:layers.svg?color=%23A855F7" width="26"> TECH STACK</h2>
+  <br>
 
-## 🧪 TECH LABORATORY
+  <h4><img src="https://api.iconify.design/lucide:code-2.svg?color=%23F59E0B" width="16"> Languages</h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" />
+
+  <br><br>
+
+  <h4><img src="https://api.iconify.design/lucide:layout-template.svg?color=%23F59E0B" width="16"> Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
+
+  <br><br>
+
+  <h4><img src="https://api.iconify.design/lucide:cloud-upload.svg?color=%23F59E0B" width="16"> Cloud & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,linux&theme=dark" />
+
+  <br><br>
+
+  <h4><img src="https://api.iconify.design/lucide:database.svg?color=%23F59E0B" width="16"> Data</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&theme=dark" />
+
+  <br><br>
+
+  <h4><img src="https://api.iconify.design/lucide:pen-tool.svg?color=%23F59E0B" width="16"> Tooling</h4>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github&theme=dark" />
+</div>
 
 <br>
-
-### 💻 Core Systems
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00F0FF">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC">
-<img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=white&labelColor=FF00FF">
-<img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6B35">
-<img src="https://img.shields.io/badge/CSS3-00D4AA?style=for-the-badge&logo=css3&logoColor=white&labelColor=00D4AA">
-</p>
-
-### ⚛️ Framework Matrix
-
-<p>
-<img src="https://img.shields.io/badge/React-00F0FF?style=for-the-badge&logo=react&logoColor=black&labelColor=00F0FF">
-<img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=black&labelColor=white">
-<img src="https://img.shields.io/badge/Node.js-00FF88?style=for-the-badge&logo=node.js&logoColor=black&labelColor=00FF88">
-<img src="https://img.shields.io/badge/Express-FF6B35?style=for-the-badge&logo=express&logoColor=white&labelColor=FF6B35">
-</p>
-
-### ☁️ Cloud Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900">
-<img src="https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black&labelColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED">
-<img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white&labelColor=FF6B35">
-</p>
-
-### 🗄️ Data Nodes
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-00FF88?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=00FF88">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192">
-<img src="https://img.shields.io/badge/Redis-FF00FF?style=for-the-badge&logo=redis&logoColor=white&labelColor=FF00FF">
-</p>
-
-### 🛠️ Development Tools
-
-<p>
-<img src="https://img.shields.io/badge/VS_Code-00F0FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=black&labelColor=00F0FF">
-<img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=FF00FF">
-<img src="https://img.shields.io/badge/Figma-FF6B35?style=for-the-badge&logo=figma&logoColor=white&labelColor=FF6B35">
-<img src="https://img.shields.io/badge/Postman-FF6B35?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6B35">
-</p>
-
-</div>
 
 ---
 
 <div align="center">
+  <h2><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23A855F7" width="26"> STATS</h2>
+  <br>
 
-## 🚀 PROJECT HOLO-DECK
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scoels&hide_border=true&background=0A0A0F&stroke=A855F7&ring=F59E0B&fire=F59E0B&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280" width="800">
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=scoels&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F59E0B&text_color=F5F5F5&ring_color=A855F7&border_radius=12" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoels&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A855F7&text_color=F5F5F5&border_radius=12" height="195">
+</div>
 
 <br>
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/scoels/Viewle">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=Viewle&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=c9d1d9&border_radius=20" width="100%">
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/scoels/whelog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=whelog&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=c9d1d9&border_radius=20" width="100%">
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/scoels/majog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=majog&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=c9d1d9&border_radius=20" width="100%">
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/scoels/vedik-web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=vedik-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=c9d1d9&border_radius=20" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
 <div align="center">
+  <h2><img src="https://api.iconify.design/lucide:medal.svg?color=%23A855F7" width="26"> ACHIEVEMENTS</h2>
+  <br>
 
-## 📡 ACTIVITY STREAM
+  <h4><img src="https://api.iconify.design/lucide:trophy.svg?color=%23F59E0B" width="16"> GitHub Trophies</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=scoels&theme=onestar&no-frame=true&row=1&column=6&margin-w=12" width="95%">
+
+  <br><br>
+
+  <h4><img src="https://api.iconify.design/lucide:badge-check.svg?color=%23F59E0B" width="16"> Certifications &amp; Credentials</h4>
+  <p><i>Update the href links below to your real Credly or cert URLs</i></p>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-0A0A0F?style=for-the-badge&logo=amazonaws&logoColor=F59E0B&labelColor=1E0A3C">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-0A0A0F?style=for-the-badge&logo=googlecloud&logoColor=A855F7&labelColor=1E0A3C">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Meta-Frontend%20Developer-0A0A0F?style=for-the-badge&logo=meta&logoColor=F59E0B&labelColor=1E0A3C">
+  </a>
+
+  <br><br>
+
+  <a href="https://orcid.org/0009-0001-4892-9308">
+    <img src="https://img.shields.io/badge/ORCID-Verified%20Researcher-0A0A0F?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=1E0A3C">
+  </a>
+</div>
 
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scoels&theme=react-dark&hide_border=true&area=true&point=FF00FF&line=00F0FF&color=c9d1d9" width="95%">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
 
 ---
 
 <div align="center">
+  <h2><img src="https://api.iconify.design/lucide:folder-open.svg?color=%23A855F7" width="26"> PROJECTS</h2>
+  <br>
 
-## 🏆 ACHIEVEMENT MATRIX
+  <a href="https://github.com/scoels/Viewle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=Viewle&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F59E0B&text_color=F5F5F5&border_radius=12" width="400">
+  </a>
+  <a href="https://github.com/scoels/whelog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=whelog&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F59E0B&text_color=F5F5F5&border_radius=12" width="400">
+  </a>
+  <br>
+  <a href="https://github.com/scoels/majog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=majog&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F59E0B&text_color=F5F5F5&border_radius=12" width="400">
+  </a>
+  <a href="https://github.com/scoels/vedik-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scoels&repo=vedik-web&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=F59E0B&text_color=F5F5F5&border_radius=12" width="400">
+  </a>
+</div>
 
 <br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=scoels&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="90%">
-
-</div>
 
 ---
 
 <div align="center">
+  <h2><img src="https://api.iconify.design/lucide:activity.svg?color=%23A855F7" width="26"> ACTIVITY</h2>
+  <br>
 
-## 🔗 NEURAL LINKS
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scoels&hide_border=true&area=true&point=F59E0B&line=A855F7&color=F5F5F5&bg_color=0A0A0F" width="100%">
 
-<br>
+  <br><br>
 
-<p>
-<a href="https://github.com/scoels">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
-</a>
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2">
-</a>
-<a href="https://twitter.com/your-handle">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2">
-</a>
-<a href="https://orcid.org/0009-0001-4892-9308">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=A6CE39">
-</a>
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35">
-</a>
-</p>
+  <img src="https://raw.githubusercontent.com/scoels/scoels/main/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg" width="100%">
+---
 
-<br><br>
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide:send.svg?color=%23A855F7" width="26"> CONNECT</h2>
+  <br>
 
-### "The future is written in code."
+  <a href="https://github.com/scoels">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=F5F5F5&labelColor=1E0A3C">
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=1E0A3C">
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0A0A0F?style=for-the-badge&logo=x&logoColor=F59E0B&labelColor=1E0A3C">
+  </a>
+  <a href="https://orcid.org/0009-0001-4892-9308">
+    <img src="https://img.shields.io/badge/ORCID-0A0A0F?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=1E0A3C">
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=safari&logoColor=F59E0B&labelColor=1E0A3C">
+  </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=40&fontAlign=50&animation=twinkling&fontColor=gradient&reversal=true&text=THANKS+FOR+VISITING!&fontAlignY=65" />
+  <br><br>
 
+  <p><i><img src="https://api.iconify.design/lucide:quote.svg?color=%23A855F7" width="16"> The future is written in code.</i></p>
+
+  <br>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1E0A3C,100:0A0A0F&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=A855F7&fontAlignY=65&animation=fadeIn" />
 </div>
