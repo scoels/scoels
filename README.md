@@ -38,8 +38,8 @@
 ### 🧬 SYSTEM ARCHITECTURE
 
 ```yaml
-Identity: SCoels
-Class: Full Stack Developer
+Identity: scoels
+Class: Always Learning Developer
 Location: Global Network
 Status: Online & Building
 Focus Areas:
