@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SCoels!
+# 👋 Hey, I'm scoels!
 
 <div align="center">
 
